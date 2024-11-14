@@ -1,0 +1,100 @@
+Student ID,Study Hours per Week,Attendance Rate,Previous Grades,Participation in Extracurricular Activities,Parent Education Level,Passed
+S00001,12.5,90.3,75,Yes,Master,Yes
+S00002,9.3,95.3,60.6,No,High School,No
+S00003,13.2,78.5,64,No,Associate,No
+S00004,17.6,76.8,62.4,Yes,Bachelor,No
+S00005,8.8,89.3,72.7,No,Master,No
+S00006,8.8,73.8,69.3,Yes,High School,Yes
+S00007,17.9,38.6,93.6,No,Doctorate,Yes
+S00008,13.8,95.8,59.2,Yes,Doctorate,No
+S00009,7.7,100.1,91.9,No,Bachelor,Yes
+S00010,12.7,38.4,37.8,Yes,High School,nan
+S00011,7.7,54.1,72.3,No,Master,No
+S00012,7.7,115.5,41.2,Yes,Master,No
+S00013,11.2,79.6,49.6,Yes,Bachelor,nan
+S00014,0.4,75.1,50.4,nan,nan,Yes
+S00015,1.4,66.5,49.2,No,Associate,Yes
+S00016,7.2,54.4,55.9,Yes,High School,No
+S00017,4.9,71.1,98,Yes,High School,No
+S00018,11.6,94.5,51.8,No,Bachelor,Yes
+S00019,5.5,74.7,40.8,No,Doctorate,No
+S00020,2.9,87.2,72.4,No,Associate,Yes
+S00021,17.3,110.3,68.6,No,Bachelor,Yes
+S00022,8.9,63.4,98.2,No,Doctorate,No
+S00023,10.3,81.1,64.4,No,High School,No
+S00024,2.9,95.1,30.7,No,Bachelor,Yes
+S00025,7.3,56.3,58.6,Yes,High School,Yes
+S00026,10.6,,58.3,No,Doctorate,Yes
+S00027,4.2,112.4,46.5,nan,High School,Yes
+S00028,11.9,68.2,56.6,Yes,High School,No
+S00029,7,96.4,62.8,Yes,Associate,No
+S00030,8.5,72.2,64.1,No,Doctorate,Yes
+S00031,7,111,44.3,No,Doctorate,Yes
+S00032,19.3,42.1,74.1,Yes,Associate,Yes
+S00033,9.9,76.3,89.5,No,Associate,No
+S00034,4.7,45.4,69.2,No,Doctorate,Yes
+S00035,14.1,61,81.6,No,High School,Yes
+S00036,3.9,60.9,67.7,Yes,Master,No
+S00037,11,69.7,49.3,Yes,Master,Yes
+S00038,0.2,51.2,69.1,No,Master,Yes
+S00039,3.4,73.6,57.5,Yes,Master,Yes
+S00040,11,84.2,48.4,No,Master,Yes
+S00041,,44.4,63.8,Yes,Master,Yes
+S00042,10.9,62.3,77.3,Yes,Bachelor,Yes
+S00043,9.4,125.8,59.9,Yes,Associate,No
+S00044,8.5,81.6,94.1,Yes,nan,No
+S00045,2.6,38.6,79.3,No,Doctorate,Yes
+S00046,6.4,47,56.8,No,High School,No
+S00047,7.7,79.5,56.3,No,Doctorate,No
+S00048,15.3,77,97.2,Yes,High School,Yes
+S00049,11.7,63.3,60,nan,Associate,No
+S00050,1.2,118.9,70.5,No,Master,Yes
+S00051,11.6,127.4,71.3,Yes,High School,Yes
+S00052,8.1,69.7,39.1,No,Doctorate,No
+S00053,6.6,92.5,39.3,Yes,Doctorate,Yes
+S00054,13.1,93.5,,No,nan,Yes
+S00055,15.2,96.1,49.3,Yes,nan,nan
+S00056,14.7,62.2,65.2,No,Bachelor,Yes
+S00057,5.8,113.8,42.3,Yes,Doctorate,Yes
+S00058,8.5,73.6,60.1,Yes,nan,No
+S00059,11.7,83.4,68.2,No,Master,Yes
+S00060,14.9,75,34.1,No,High School,No
+S00061,7.6,72.2,65.8,No,High School,Yes
+S00062,9.1,80.6,66.6,No,Bachelor,No
+S00063,4.5,51.3,58,Yes,Associate,Yes
+S00064,4,35.6,48.5,Yes,Associate,Yes
+S00065,14.1,70.7,59.4,Yes,High School,No
+S00066,16.8,57.4,59.4,No,High School,Yes
+S00067,9.6,86,93.9,No,Associate,No
+S00068,15,83.7,63.2,Yes,nan,Yes
+S00069,11.8,75.3,58,No,Doctorate,No
+S00070,6.8,104.6,63.2,No,Associate,No
+S00071,11.8,74.9,71.4,nan,Master,Yes
+S00072,17.7,45.8,70.8,Yes,Bachelor,Yes
+S00073,9.8,70.5,71.7,Yes,Master,No
+S00074,17.8,98.4,74,No,Doctorate,Yes
+S00075,-3.1,37.3,43.1,No,Master,Yes
+S00076,14.1,73.1,72.7,No,Doctorate,Yes
+S00077,10.4,86.5,67.8,No,Doctorate,Yes
+S00078,8.5,128,55.7,Yes,Bachelor,Yes
+S00079,10.5,99.2,66.6,No,High School,Yes
+S00080,0.1,77.7,63.4,No,Associate,Yes
+S00081,8.9,85.4,64.7,No,Doctorate,Yes
+S00082,11.8,37,67.6,No,Master,Yes
+S00083,17.4,40,39.8,No,Master,No
+S00084,7.4,56.5,68.9,No,Bachelor,nan
+S00085,6,78.2,74.8,No,Bachelor,Yes
+S00086,7.5,80.8,68.7,No,Doctorate,Yes
+S00087,14.6,75.7,54.1,Yes,Master,No
+S00088,11.6,74.9,52.1,Yes,Master,No
+S00089,7.4,77.1,67.7,Yes,Bachelor,Yes
+S00090,12.6,53.9,77,No,Doctorate,No
+S00091,10.5,70.4,84.6,Yes,nan,No
+S00092,14.8,90,76.5,Yes,High School,Yes
+S00093,6.5,62.6,72.7,Yes,High School,Yes
+S00094,8.4,98.9,26.9,No,Doctorate,Yes
+S00095,8,71.4,50,No,Doctorate,No
+S00096,2.7,86.9,73.5,No,Associate,No
+S00097,11.5,77.3,54.8,No,Associate,Yes
+S00098,11.3,67.3,200,Yes,Master,Yes
+S00099,10,54.8,49.1,Yes,Associate,Yes
